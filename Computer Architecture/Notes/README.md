@@ -24,6 +24,6 @@
       </ol>
    </body>
    
-*Other Notes Are Locked*
+> *Other Notes Are Locked*
 
 
