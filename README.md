@@ -14,7 +14,7 @@
       <ol type = "1">
          <li>Computer Architecture<sup><i>*restricted access</sup></i></li>
          <li>Communication System<i><sup>access on 11<sup>th</sup> July 2022</sup></i></li>
-         <li>Electromegnet<i><sup>access on 13<sup>th</sup> July 2022</sup></i></li>
+         <li>Electromagnet<i><sup>access on 13<sup>th</sup> July 2022</sup></i></li>
       </ol>
 </body>
    
