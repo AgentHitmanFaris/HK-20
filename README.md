@@ -12,8 +12,8 @@
 
 <body>
       <ol type = "1">
-         <li>Communication System<i><sup>access on 11<sup>th</sup> July 2022</sup></i></li>
-         <li>Electromagnet<i><sup>access on 13<sup>th</sup> July 2022</sup></i></li>
+         <li>Communication System<i><sup> Image capture API testing</i></sup></li>
+         <li>Electromagnet<i><sup> access on 13<sup>th</sup> July 2022</sup></i></li>
       </ol>
 </body>
   
