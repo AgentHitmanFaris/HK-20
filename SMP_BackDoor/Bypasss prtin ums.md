@@ -1,4 +1,5 @@
-# Strictly for education purpose
+> [!CAUTION]
+> # Strictly for education purpose
 
 This code contains maicious to bypass print code even did'nt pay for education fees or rating
 
