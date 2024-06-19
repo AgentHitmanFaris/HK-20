@@ -239,4 +239,4 @@ src="https://smp.ums.edu.my/Submodules/RekodPeribadi/PeribadiPelajar.aspx?auth_s
 > [!NOTE]
 > Ensure that student and staff change the password regularly to avoid any misuse occur
 > 
-> Currently there is more 58K data been leake due to misuse/misleading port
+> Currently there is more [58K](https://github.com/AgentHitmanFaris/HK-20/blob/main/SMP_BackDoor/encrypted_data.txt) data been leake due to misuse/misleading port
